@@ -158,6 +158,7 @@ function Detail(){
                       value={webName}
                       onChange={(e)=>{setWebName(e.target.value)}}
                       className='input-box'
+                      
                       placeholder='Enter Website Name'
                      />
                      <input
